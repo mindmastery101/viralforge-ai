@@ -56,3 +56,29 @@ Contributions are welcome.
 * Python
 * AI APIs (Claude / OpenAI)
 
+## ▶️ Usage Example
+
+Run the script:
+
+```bash
+python app.py
+```
+
+Enter a topic like:
+
+```
+success mindset
+```
+
+Output:
+
+```
+HOOK:
+Wait... this will change how you see success mindset forever.
+
+SCRIPT:
+Most people don't realize this, but success mindset has a hidden secret...
+
+CTA:
+Follow for more viral content tips.
+```
